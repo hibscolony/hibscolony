@@ -1,77 +1,90 @@
 {
   "$schema": "./profile.schema.json",
+
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Naufal Arkan Wahib",
+    "username": "hibscolony",
+    "headline": "AI-nspirator & Public Speaker",
+    "affiliation": "Telkom University",
+    "location": "Bandung, Indonesia",
+    "status": "Learning / Building / Thinking",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I build intelligent systems that turn research, data, and emerging technologies into practical solutions for real-world problems.",
+      "My work is driven by curiosity and execution: exploring ideas, building intelligent systems, testing them rigorously, and turning promising concepts into real-world solutions."
     ]
   },
+
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Big Data & AI",
+    "direction": "Reliable, scalable, human-centered AI",
+    "themes": "Multimodal AI / XAI / Human-in-the-Loop",
+    "narrative": "I am interested in building intelligent systems that can understand complex data, reason across multiple modalities, evaluate their outputs, and support real-world decisions while remaining transparent, reliable, and under meaningful human oversight."
   },
+
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Big Data",
+      "description": "Large-scale data processing, analytics, and intelligent pipelines for extracting reliable insights from complex, high-volume data."
     },
     {
       "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "description": "Practical AI solutions that transform data and models into reliable, usable systems for real-world problems."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Vibe Coding",
+      "description": "AI-assisted software development focused on rapid prototyping, iterative building, and turning ideas into working products."
+    },
+    {
+      "name": "Multimodal",
+      "description": "Integration and reasoning across text, audio, images, and sensor data to build richer and more context-aware AI systems."
     }
   ],
+
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Fuel Intelligence",
+      "url": "https://github.com/hibscolony/fuel_intelligence_2",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Monitoring fuel consumption",
+      "summary": "A data-driven dashboard for monitoring fuel consumption, analyzing usage patterns, and supporting more efficient operational decisions through clear and actionable insights.",
+      "heroLabel": "Fuel Intelligence"
     },
     {
       "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "url": "https://github.com/hibscolony/project-two",
       "homepage": "",
       "focus": "Secondary project focus",
       "summary": "A second project that supports the professional direction of this profile.",
       "heroLabel": "Active system"
     }
   ],
+
   "techStack": [
-    "TypeScript",
-    "Next.js",
     "Python",
+    "PyTorch",
+    "Next.js",
     "PostgreSQL",
-    "Playwright"
+    "Git"
   ],
+
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "hibscolony",
+      "url": "https://github.com/hibscolony",
       "logo": "github",
       "color": "0B1220"
     }
   ],
+
   "activity": {
     "enabled": true,
     "limit": 6
   },
+
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+
+  "footer": "Building intelligent systems and sharing what works."
 }
