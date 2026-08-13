@@ -33,7 +33,6 @@ My work is driven by curiosity and execution: exploring ideas, building intellig
 | Project | Focus | Why it matters |
 | --- | --- | --- |
 | [**Fuel Intelligence**](https://github.com/hibscolony/fuel_intelligence_2) | Monitoring fuel consumption | A data-driven dashboard for monitoring fuel consumption, analyzing usage patterns, and supporting more efficient operational decisions through clear and actionable insights. |
-| [**Project Two**](https://github.com/hibscolony/project-two) | Secondary project focus | A second project that supports the professional direction of this profile. |
 
 ## Research Direction
 
