@@ -48,14 +48,6 @@
       "focus": "Monitoring fuel consumption",
       "summary": "A data-driven dashboard for monitoring fuel consumption, analyzing usage patterns, and supporting more efficient operational decisions through clear and actionable insights.",
       "heroLabel": "Fuel Intelligence"
-    },
-    {
-      "name": "Project Two",
-      "url": "https://github.com/hibscolony/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
     }
   ],
 
